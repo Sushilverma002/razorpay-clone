@@ -30,6 +30,7 @@ Follow the steps below to set up and run the project locally:
 To start the development server, run the following command:
 ```bash
 npm install
+```
 
 ## Technologies Used
 
